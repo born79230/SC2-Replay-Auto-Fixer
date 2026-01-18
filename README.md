@@ -1,4 +1,4 @@
-# 🧬 StarCraft 2 Replay Cleaner (Abathur Edition)
+# 🧬 StarCraft 2 Replay Autofixer (Abathur Edition)
 # 星际2录像基因清洗器 (阿巴瑟版)
 
 [English](#-english) | [中文](#-中文)
@@ -16,7 +16,7 @@
 Since the latest StarCraft II CN server update has officially fixed the replay corruption bug, background monitoring is no longer necessary for new games.
 However, **old corrupted replays** still exist in your hive (hard drive).
 
-**StarCraft 2 Replay Cleaner** is a one-time tool designed to scan your entire replay directory and **fix all previously corrupted replay files** in one go.
+**StarCraft 2 Replay Autofixer** is a one-time tool designed to scan your entire replay directory and **fix all previously corrupted replay files** in one go.
 Theme: **Heart of the Swarm / Abathur**.
 
 ### ✨ Features
@@ -48,7 +48,7 @@ Core logic based on [probiusofficial/StarCraft2-CN-Replay-Repair](https://github
 随着星际争霸2国服版本的更新，官方已修复了录像损坏的 BUG，因此不再需要后台监控新录像。
 但是，你的巢穴（硬盘）中仍然残留着大量**以前打不开的旧录像**。
 
-**StarCraft 2 Replay Cleaner** 是一个一次性工具，专为扫描并**批量修复所有旧版本的损坏录像**而设计。
+**StarCraft 2 Replay Autofixer** 是一个一次性工具，专为扫描并**批量修复所有旧版本的损坏录像**而设计。
 本工具采用 **虫群之心 / 阿巴瑟** 主题风格。
 
 ### ✨ 功能特点
